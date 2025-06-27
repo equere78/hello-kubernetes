@@ -1,5 +1,5 @@
 # Provide a custom message
-message: ""
+message: "CECI EST UN TEST DE SYNCHRO MANUELLE"
 
 # Remember to set service.type=ClusterIP if you are using an ingress
 ingress:
